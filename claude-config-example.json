@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "research-task": {
+      "command": "node",
+      "args": ["/Users/YOUR_USERNAME/research-task-mcp-server/dist/index.js"],
+      "env": {
+        "ANTHROPIC_API_KEY": "sk-ant-api03-YOUR-API-KEY-HERE"
+      }
+    }
+  }
+}
